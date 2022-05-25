@@ -1,0 +1,8 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwallpapercave.com%2Fwp%2FFSjC4po.jpg&f=1&nofb=1")
+  }
+
+.container {display:table;}
+.one, .two {display:table-column;}
